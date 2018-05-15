@@ -1,1 +1,4 @@
 Learning Process
+
+1. create an identity matrix
+	A = eye(5);
